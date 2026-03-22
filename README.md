@@ -18,7 +18,7 @@ No cloud vision API. No lag. Just AI on hardware.
 |---|---|
 | **Hardware** | Raspberry Pi 5 + Camera Module |
 | **Object Detection** | YOLOv8 (Ultralytics) |
-| **AI / Labeling** | Claude (Anthropic API) |
+| **AI / Labeling** | Claude (Anthropic API), Gemini (Google) |
 | **Language** | Python |
 
 ---
@@ -67,10 +67,10 @@ PI-Camera-Picture-Labels/
 
 ---
 
-## 🚀 AI-BOOTCAMP
+## 🚀 Part of the Austin Edge-AI Lab
 
 This project was built during the **Week 2 Physical AI** phase of a 15-day AI Developer Bootcamp in Austin, Texas.  
-See the full bootcamp repo → [The Austin Edge-AI Lab](../README.md)
+See the full bootcamp repo → [The AI Bootcamp](../README.md)
 
 ---
 
