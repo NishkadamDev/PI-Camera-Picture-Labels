@@ -67,7 +67,7 @@ PI-Camera-Picture-Labels/
 
 ---
 
-## 🚀 Part of the Austin Edge-AI Lab
+## 🚀 AI-BOOTCAMP
 
 This project was built during the **Week 2 Physical AI** phase of a 15-day AI Developer Bootcamp in Austin, Texas.  
 See the full bootcamp repo → [The Austin Edge-AI Lab](../README.md)
